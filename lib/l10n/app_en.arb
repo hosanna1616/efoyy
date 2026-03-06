@@ -1,0 +1,177 @@
+{
+  "@@locale": "en",
+  "appTitle": "Efoy - Patient Relief",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "welcome": "Welcome to Efoy",
+  "register": "Register",
+  "opdQueue": "OPD Queue",
+  "digitalCard": "Digital Card",
+  "instructions": "Instructions",
+  "navigation": "Navigation",
+  "staffDashboard": "Staff Dashboard",
+  "settings": "Settings",
+  "logout": "Logout",
+  "login": "Login",
+  "patientLogin": "Patient Login",
+  "registerToGetStarted": "Register to get started",
+  "checkYourTurn": "Check your turn",
+  "viewYourCard": "View your digital card",
+  "viewInstructions": "View instructions from nurse",
+  "getDirections": "Get directions to rooms",
+  "name": "Name",
+  "phoneNumber": "Phone Number",
+  "fullName": "Full Name",
+  "enterYourName": "Enter your name",
+  "enterPhoneNumber": "Enter your phone number",
+  "pleaseEnterYourName": "Please enter your name",
+  "nameCannotContainNumbers": "Name cannot contain numbers",
+  "nameMustBeAtLeast2Characters": "Name must be at least 2 characters",
+  "pleaseEnterYourPhoneNumber": "Please enter your phone number",
+  "phoneNumberCanOnlyContainDigits": "Phone number can only contain digits",
+  "pleaseEnterValidPhoneNumber": "Please enter a valid phone number (9-10 digits)",
+  "alreadyRegistered": "A patient with the same name and phone number is already registered. Please login instead.",
+  "registered": "Registered! Your ID: {id}",
+  "@registered": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "error": "Error",
+  "room": "Room",
+  "joinQueue": "Join Queue",
+  "pleaseEnterRoomName": "Please enter a room name",
+  "successfullyJoinedQueue": "Successfully joined queue!",
+  "errorJoiningQueue": "Error joining queue",
+  "queueNumber": "Queue #{number}",
+  "@queueNumber": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "position": "Position",
+  "estimatedWait": "Estimated Wait",
+  "yourTurnNow": "Your turn now!",
+  "minutes": "{count} minutes",
+  "@minutes": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursMinutes": "{hours}h {minutes}m",
+  "@hoursMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "yourTurn": "Your Turn!",
+  "goToRoom": "Go to {room} now",
+  "@goToRoom": {
+    "placeholders": {
+      "room": {
+        "type": "String"
+      }
+    }
+  },
+  "buttonPhoneUsersCheckSMS": "Button phone users: Check SMS for notification",
+  "reportPain": "Report Pain",
+  "liveQueue": "Live Queue",
+  "noPatientsInQueue": "No patients in queue",
+  "queueWillAppearHere": "Queue will appear here when patients join",
+  "callNextPatient": "Call Next Patient",
+  "nextPatientCalled": "Next patient called",
+  "markAsServed": "Mark as served",
+  "removeFromQueue": "Remove from queue",
+  "patientMarkedAsServed": "Patient marked as served. Next patient notified.",
+  "removeFromQueueTitle": "Remove from Queue",
+  "areYouSureRemove": "Are you sure you want to remove {name} from the queue?",
+  "@areYouSureRemove": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "Cancel",
+  "remove": "Remove",
+  "removedFromQueue": "{name} removed from queue. Next patient notified.",
+  "@removedFromQueue": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "joined": "Joined",
+  "estWait": "Est. Wait",
+  "now": "Now",
+  "downloadAsPNG": "Download as PNG",
+  "preparingCard": "Preparing card...",
+  "cardReadyToSave": "Card ready to save/share!",
+  "cardSavedTo": "Card saved to: {path}",
+  "@cardSavedTo": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "errorSavingCard": "Error saving card",
+  "patientID": "Patient ID",
+  "nextAppointment": "Next Appointment",
+  "memberSince": "Member Since",
+  "medicalHistory": "Medical History",
+  "noInstructions": "No instructions yet",
+  "instructionsWillAppearHere": "Instructions from your nurse will appear here",
+  "switchToEnglish": "Switch to English",
+  "switchToAmharic": "ወደ አማርኛ ቀይር",
+  "notRegistered": "Not registered? Register here",
+  "enterRoomName": "Enter room name (e.g., OPD Room 1)",
+  "liveQueueTitle": "Live Queue - {room}",
+  "@liveQueueTitle": {
+    "placeholders": {
+      "room": {
+        "type": "String"
+      }
+    }
+  },
+  "refreshQueue": "Refresh queue",
+  "unableToLoadQueue": "Unable to load queue",
+  "staffLogin": "Staff Login",
+  "nursesDoctorsOnly": "Nurses & Doctors Only",
+  "username": "Username",
+  "password": "Password",
+  "pleaseEnterUsername": "Please enter username",
+  "pleaseEnterPassword": "Please enter password",
+  "invalidCredentials": "Invalid credentials. Please try again.",
+  "backToHome": "Back to Home",
+  "patientNotFound": "Patient not found. Please register first.",
+  "welcomeBack": "Welcome back, {name}!",
+  "@welcomeBack": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "enterPhoneToView": "Enter your phone number to view your queue and instructions",
+  "pleaseEnterPhoneNumber": "Please enter your phone number",
+  "pleaseEnterValidPhoneNumberShort": "Please enter a valid phone number",
+  "smartphoneMode": "Smartphone Mode",
+  "smartphoneModeDescription": "Enable for smartphones, disable for button phones (SMS-only mode)",
+  "smartphoneModeEnabled": "Smartphone mode enabled",
+  "buttonPhoneModeEnabled": "Button phone mode enabled (SMS-only)",
+  "useLanguageToggle": "Use language toggle in app bar"
+}

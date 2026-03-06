@@ -1,0 +1,177 @@
+{
+  "@@locale": "am",
+  "appTitle": "እፎይ - የታካሚ ምቾት",
+  "@appTitle": {
+    "description": "የመተግበሪያው ርዕስ"
+  },
+  "welcome": "እንኳን ደህና መጡ ወደ እፎይ",
+  "register": "ተመዝግብ",
+  "opdQueue": "የOPD ወረፋ",
+  "digitalCard": "ዲጂታል ካርድ",
+  "instructions": "መመሪያዎች",
+  "navigation": "መሪ",
+  "staffDashboard": "የሰራተኞች ዳሽቦርድ",
+  "settings": "ቅንብሮች",
+  "logout": "ውጣ",
+  "login": "ግባ",
+  "patientLogin": "የታካሚ መግቢያ",
+  "registerToGetStarted": "ለመጀመር ይመዝግቡ",
+  "checkYourTurn": "የእርስዎን ተራ ይፈትሹ",
+  "viewYourCard": "ዲጂታል ካርድዎን ይመልከቱ",
+  "viewInstructions": "ከነርስ የተላኩ መመሪያዎችን ይመልከቱ",
+  "getDirections": "ወደ ክፍሎች አቅጣጫ ያግኙ",
+  "name": "ስም",
+  "phoneNumber": "የስልክ ቁጥር",
+  "fullName": "ሙሉ ስም",
+  "enterYourName": "ስምዎን ያስገቡ",
+  "enterPhoneNumber": "የስልክ ቁጥርዎን ያስገቡ",
+  "pleaseEnterYourName": "እባክዎ ስምዎን ያስገቡ",
+  "nameCannotContainNumbers": "ስም ቁጥሮችን ሊይዝ አይችልም",
+  "nameMustBeAtLeast2Characters": "ስም ቢያንስ 2 ቁምፊዎች መሆን አለበት",
+  "pleaseEnterYourPhoneNumber": "እባክዎ የስልክ ቁጥርዎን ያስገቡ",
+  "phoneNumberCanOnlyContainDigits": "የስልክ ቁጥር ቁጥሮችን ብቻ ሊይዝ ይችላል",
+  "pleaseEnterValidPhoneNumber": "እባክዎ ትክክለኛ የስልክ ቁጥር ያስገቡ (9-10 አሃዞች)",
+  "alreadyRegistered": "ተመሳሳይ ስም እና የስልክ ቁጥር ያለው ታካሚ ቀድሞውኑ ተመዝግቧል። እባክዎ ይግቡ።",
+  "registered": "ተመዝግበዋል! የእርስዎ መለያ: {id}",
+  "@registered": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "error": "ስህተት",
+  "room": "ክፍል",
+  "joinQueue": "ወደ ወረፋ ይቀላቀሉ",
+  "pleaseEnterRoomName": "እባክዎ የክፍል ስም ያስገቡ",
+  "successfullyJoinedQueue": "በተሳካ ሁኔታ ወደ ወረፋ ተቀላቀሉ!",
+  "errorJoiningQueue": "ወደ ወረፋ በመቀላቀል ላይ ስህተት",
+  "queueNumber": "የወረፋ ቁጥር #{number}",
+  "@queueNumber": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "position": "ቦታ",
+  "estimatedWait": "የታሰበ የጥበቃ ጊዜ",
+  "yourTurnNow": "አሁን ተራዎ ነው!",
+  "minutes": "{count} ደቂቃዎች",
+  "@minutes": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursMinutes": "{hours}ሰ {minutes}ደ",
+  "@hoursMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "yourTurn": "ተራዎ ነው!",
+  "goToRoom": "አሁን ወደ {room} ይሂዱ",
+  "@goToRoom": {
+    "placeholders": {
+      "room": {
+        "type": "String"
+      }
+    }
+  },
+  "buttonPhoneUsersCheckSMS": "የአሞሌ ስልክ ተጠቃሚዎች: ለማሳወቂያ SMS ይፈትሹ",
+  "reportPain": "ስቃይ ሪፖርት ያድርጉ",
+  "liveQueue": "የቀጥታ ወረፋ",
+  "noPatientsInQueue": "በወረፋ ውስጥ ታካሚዎች የሉም",
+  "queueWillAppearHere": "ታካሚዎች ሲቀላቀሉ ወረፋው እዚህ ይታያል",
+  "callNextPatient": "ቀጣዩን ታካሚ ይጥሩ",
+  "nextPatientCalled": "ቀጣዩ ታካሚ ተጠርቷል",
+  "markAsServed": "እንደ አገልግሎት የተሰጠ ምልክት ያድርጉ",
+  "removeFromQueue": "ከወረፋ ያስወግዱ",
+  "patientMarkedAsServed": "ታካሚ እንደ አገልግሎት የተሰጠ ምልክት ተደርጎታል። ቀጣዩ ታካሚ ተጠቅሟል።",
+  "removeFromQueueTitle": "ከወረፋ ማስወገድ",
+  "areYouSureRemove": "እርግጠኛ ነዎት {name}ን ከወረፋ ማስወገድ ይፈልጋሉ?",
+  "@areYouSureRemove": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "ተወው",
+  "remove": "ያስወግዱ",
+  "removedFromQueue": "{name} ከወረፋ ተወግዷል። ቀጣዩ ታካሚ ተጠቅሟል።",
+  "@removedFromQueue": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "joined": "ተቀላቅሏል",
+  "estWait": "የታሰበ ጥበቃ",
+  "now": "አሁን",
+  "downloadAsPNG": "እንደ PNG ያውርዱ",
+  "preparingCard": "ካርድ እየተዘጋጀ ነው...",
+  "cardReadyToSave": "ካርድ ለማስቀመጥ/ለማጋራት ዝግጁ ነው!",
+  "cardSavedTo": "ካርድ ተቀምጧል በ: {path}",
+  "@cardSavedTo": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "errorSavingCard": "ካርድን በማስቀመጥ ላይ ስህተት",
+  "patientID": "የታካሚ መለያ",
+  "nextAppointment": "ቀጣይ ቀጠሮ",
+  "memberSince": "አባል ከ",
+  "medicalHistory": "የጤና ታሪክ",
+  "noInstructions": "እስካሁን ምንም መመሪያዎች የሉም",
+  "instructionsWillAppearHere": "ከነርስዎ የተላኩ መመሪያዎች እዚህ ይታያሉ",
+  "switchToEnglish": "ወደ እንግሊዝኛ ቀይር",
+  "switchToAmharic": "ወደ አማርኛ ቀይር",
+  "notRegistered": "አልተመዘገቡም? እዚህ ይመዝግቡ",
+  "enterRoomName": "የክፍል ስም ያስገቡ (ለምሳሌ፣ OPD Room 1)",
+  "liveQueueTitle": "የቀጥታ ወረፋ - {room}",
+  "@liveQueueTitle": {
+    "placeholders": {
+      "room": {
+        "type": "String"
+      }
+    }
+  },
+  "refreshQueue": "ወረፋውን ያድሱ",
+  "unableToLoadQueue": "ወረፋውን ማስገባት አልቻለም",
+  "staffLogin": "የሰራተኞች መግቢያ",
+  "nursesDoctorsOnly": "ነርሶች እና ዶክተሮች ብቻ",
+  "username": "የተጠቃሚ ስም",
+  "password": "የይለፍ ቃል",
+  "pleaseEnterUsername": "እባክዎ የተጠቃሚ ስም ያስገቡ",
+  "pleaseEnterPassword": "እባክዎ የይለፍ ቃል ያስገቡ",
+  "invalidCredentials": "ትክክል ያልሆነ የመግቢያ መረጃ። እባክዎ እንደገና ይሞክሩ።",
+  "backToHome": "ወደ መነሻ ተመለስ",
+  "patientNotFound": "ታካሚ አልተገኘም። እባክዎ በመጀመሪያ ይመዝግቡ።",
+  "welcomeBack": "እንኳን ደህና መጡ፣ {name}!",
+  "@welcomeBack": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "enterPhoneToView": "የወረፋዎን እና መመሪያዎችዎን ለማየት የስልክ ቁጥርዎን ያስገቡ",
+  "pleaseEnterPhoneNumber": "እባክዎ የስልክ ቁጥርዎን ያስገቡ",
+  "pleaseEnterValidPhoneNumberShort": "እባክዎ ትክክለኛ የስልክ ቁጥር ያስገቡ",
+  "smartphoneMode": "የስማርትፎን ሁነታ",
+  "smartphoneModeDescription": "ለስማርትፎኖች ይክፈቱ፣ ለአሞሌ ስልኮች ይዝጉ (SMS ብቻ)",
+  "smartphoneModeEnabled": "የስማርትፎን ሁነታ ተክቷል",
+  "buttonPhoneModeEnabled": "የአሞሌ ስልክ ሁነታ ተክቷል (SMS ብቻ)",
+  "useLanguageToggle": "በመተግበሪያ አሞሌ ውስጥ የቋንቋ መቀያየሪያ ይጠቀሙ"
+}
