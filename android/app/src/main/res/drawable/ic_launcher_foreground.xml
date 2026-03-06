@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Medical Cross Icon -->
+    <group
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        android:translateX="16.2"
+        android:translateY="16.2">
+        <!-- Vertical bar of cross -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M37.8,10.8L37.8,10.8C35.1,10.8 32.4,13.5 32.4,16.2L32.4,37.8C32.4,40.5 35.1,43.2 37.8,43.2L37.8,43.2C40.5,43.2 43.2,40.5 43.2,37.8L43.2,16.2C43.2,13.5 40.5,10.8 37.8,10.8Z"/>
+        <!-- Horizontal bar of cross -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M16.2,32.4L16.2,32.4C13.5,32.4 10.8,35.1 10.8,37.8L10.8,37.8C10.8,40.5 13.5,43.2 16.2,43.2L59.4,43.2C62.1,43.2 64.8,40.5 64.8,37.8L64.8,37.8C64.8,35.1 62.1,32.4 59.4,32.4L16.2,32.4Z"/>
+        <!-- Vertical bar of cross (bottom) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M37.8,64.8L37.8,64.8C35.1,64.8 32.4,67.5 32.4,70.2L32.4,91.8C32.4,94.5 35.1,97.2 37.8,97.2L37.8,97.2C40.5,97.2 43.2,94.5 43.2,91.8L43.2,70.2C43.2,67.5 40.5,64.8 37.8,64.8Z"/>
+    </group>
+    <!-- Letter E for Efoy -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,40L30,68L50,68L50,60L38,60L38,55L48,55L48,47L38,47L38,40L30,40Z"/>
+</vector>
